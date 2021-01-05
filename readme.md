@@ -5,6 +5,7 @@ Simple framework with prepped directory structure and game classes.
 Defines rules of organization for this framework.
 ### Structure
 - [Directory](docs/Structure/DirectoryStructure.md)
+  
 ## Coding
 Defines all custom classes that goes with framework
 ### Game 
