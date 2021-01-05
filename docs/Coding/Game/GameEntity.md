@@ -19,11 +19,11 @@ Implements additional layer on TimeScale, that can be changed.
 > Slow motion effect.
 
 ### Additional
-Interfaces that can, but don't have to be on GameAgent.
+Interfaces that can, but don't have to be on GameEntity.
 
-#### IControllableAgents 
-Agents that can be controlled by **IController** (*interface defining object that handles controllers*). 
+#### IUsable\<T> 
+Can be used by GameAgent.
 
 #### IDamageable
-Agents that have health and can be destroyed.
-> Zombie that can be killed with weapon.
+Objects that have health and can be destroyed.
+> Wood plank that can be cut with axe.
