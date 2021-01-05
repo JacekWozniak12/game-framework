@@ -3,20 +3,29 @@ This document will mostly concentrate on *Assets* folder within project structur
 
 ## Art
 Defines all folders, that contains items made for game. 
+
 ### Animations
+Here goes animations.
 
 ### Materials
-#### Intreface
-#### Props
+#### Interface
+Here goes materials for interfaces.
+#### Game
+Here goes game materials.
 
 ### Models
 #### Intreface
-#### Props
+Here goes 3D model.
+#### Game
+Here goes sword model.
 
 ### Sounds
 #### Effects
+Defines every single effect, from button click to footstep.
 ##### Interface
+Here goes button clicks.
 ##### Game
+Here goes a footstep.
 
 #### Music
 Ambient, battle music, you name it, you store it here.
@@ -36,7 +45,8 @@ Creation wizards that speeds
 
 ## Objects
 ### Resources
-Defines every single item that is loaded in game time
+Defines every single item that is loaded in game time.
+
 ### Static 
 Defines items that are placed on Scene.
 
@@ -45,7 +55,11 @@ Defines test space for unfinished tools, scenes, prefabs and scripts.
 
 ## Scenes
 ### Levels
-Scenes that are 
+Scenes that are playable in main game loop.
 
 ### Menu
+Scenes that are designed to display interfaces, menus etc.
+
+### Prototypes
+Scenes that are for internal mechanic, game balance testing etc.
 
