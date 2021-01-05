@@ -1,5 +1,5 @@
-# Unity - Game Framework
-Simple framework with prepped directory structure and game classes.
+# Unity - Game Library
+Simple library with prepped directory structure and game classes.
 
 ## Organization
 Defines rules of organization for this framework.
